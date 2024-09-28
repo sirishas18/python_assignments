@@ -51,5 +51,6 @@ elif size == "l":
     print(f"Your total cost is {bill}")
 
 else:
-    print("You have select wrong option.Plz select s or m or l")
+    print("You\'ve select wrong option.Plz select s or m or l")
 
+#.lower()
