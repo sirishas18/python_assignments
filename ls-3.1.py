@@ -54,3 +54,4 @@ else:
     print("You\'ve select wrong option.Plz select s or m or l")
 
 #.lower()
+# pseudoramdom number generators
